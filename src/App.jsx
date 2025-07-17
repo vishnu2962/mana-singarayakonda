@@ -12,7 +12,7 @@ import News from './components/News';
 
 function App() {
   return (
-    <div>
+    <>
       <Header />
       <Routes>
         <Route path="/" element={<Home />} />
@@ -24,7 +24,7 @@ function App() {
         <Route path="/news" element={<News />} />
       </Routes>
       <Footer />
-    </div>
+    </>
   );
 }
 
