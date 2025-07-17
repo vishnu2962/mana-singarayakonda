@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mana-singarayakonda/static/css/main.47ceaf15.css",
+    "main.js": "/mana-singarayakonda/static/js/main.47c57279.js",
+    "static/media/veg-shop.jpg": "/mana-singarayakonda/static/media/veg-shop.7903bbe6c101e46d6b45.jpg",
+    "static/media/onion.jpg": "/mana-singarayakonda/static/media/onion.b7a2e5310abc3cf75aca.jpg",
+    "static/media/tomato.jpg": "/mana-singarayakonda/static/media/tomato.82b16e9fa897963b97d6.jpg",
+    "static/media/worker1.jpg": "/mana-singarayakonda/static/media/worker1.e541f26d0ff37cf6a3a3.jpg",
+    "static/media/rice.jpg": "/mana-singarayakonda/static/media/rice.dc59389dabb1591e498f.jpg",
+    "static/media/chicken.jpg": "/mana-singarayakonda/static/media/chicken.16bed4298e17697c73c7.jpg",
+    "static/media/offer1.jpg": "/mana-singarayakonda/static/media/offer1.f028408a0cd4ea52cc25.jpg",
+    "static/media/mutton.jpg": "/mana-singarayakonda/static/media/mutton.ad2c2bbe12c2c5de17db.jpg",
+    "static/media/kirana-shop.jpg": "/mana-singarayakonda/static/media/kirana-shop.303df43d5df06a674e21.jpg",
+    "static/media/meat-shop.jpg": "/mana-singarayakonda/static/media/meat-shop.885fa85380bb865c00a3.jpg",
+    "index.html": "/mana-singarayakonda/index.html",
+    "main.47ceaf15.css.map": "/mana-singarayakonda/static/css/main.47ceaf15.css.map",
+    "main.47c57279.js.map": "/mana-singarayakonda/static/js/main.47c57279.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47ceaf15.css",
+    "static/js/main.47c57279.js"
+  ]
+}
