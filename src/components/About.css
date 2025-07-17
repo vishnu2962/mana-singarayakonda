@@ -1,0 +1,49 @@
+.about-container {
+  max-width: 900px;
+  margin: auto;
+  padding: 2rem;
+  background-color: #f9fcff;
+  border-radius: 12px;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.08);
+}
+
+.about-container h2 {
+  color: #0c4a6e;
+  text-align: center;
+  margin-bottom: 1.5rem;
+}
+
+.about-container p {
+  font-size: 1.1rem;
+  line-height: 1.7;
+  color: #333;
+  margin-bottom: 1rem;
+}
+
+.about-container ul {
+  margin-top: 0.5rem;
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.about-container li {
+  margin-bottom: 0.5rem;
+  font-weight: 500;
+}
+
+.quote-box {
+  margin-top: 2rem;
+  background-color: #e0f7ec;
+  padding: 1.5rem;
+  border-left: 6px solid #16a34a;
+  border-radius: 8px;
+  font-style: italic;
+  color: #065f46;
+}
+
+.admin-sign {
+  text-align: right;
+  font-weight: bold;
+  margin-top: 0.5rem;
+  color: #065f46;
+}
